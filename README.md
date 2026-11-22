@@ -17,7 +17,8 @@ I made the game with Python and Pygame. The map was made in Tiled, and I drew al
 
 ### Screenshots
 
-![Survival on Island](screenshots/main.png)
+<img width="1470" height="956" alt="Снимок экрана — 2026-11-22 в 18 45 14" src="https://github.com/user-attachments/assets/23d24e6f-0bd7-4b29-966e-48a9c3c4e2a9" />
+
 
 ## Getting Started
 
